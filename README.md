@@ -2,7 +2,7 @@
 
 Nếu bạn viết blog và quen với việc sử dụng tag để phân loại bài viết thì việc dùng hashtag cho mỗi post trên Facebook cũng tương tự.
 
-Khi sử dụng hashtag sẽ giúp việc phân loại và tìm kiếm nội dung theo một chuyên mục cụ thể sẽ trở nên dễ dàng và nhanh chóng hơn.
+Khi sử dụng hashtag sẽ giúp việc phân loại và tìm kiếm nội dung theo một chuyên mục cụ thể trở nên dễ dàng và nhanh chóng hơn.
 
 Chính vì điều đó, khuyến khích tất cả các bạn khi đăng bài viết hãy kèm theo hashtag.
 
