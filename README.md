@@ -16,4 +16,5 @@ Chính vì điều đó, khuyến khích tất cả các bạn khi đăng bài v
 | [#vuejsvn_relax](https://www.facebook.com/hashtag/vuejsvn_relax)      | Ảnh, video hoặc nội dung giải trí                |
 | [#vuejsvn_tutorial](https://www.facebook.com/hashtag/vuejsvn_tutorial)   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
 | [#vuejsvn_suggest](https://www.facebook.com/hashtag/vuejsvn_suggest)    | Góp ý cho Ban Quản Trị nhóm                      |
+| [#vuejsvn_job](https://www.facebook.com/hashtag/vuejsvn_job)    | Tin tức tuyển dụng liên quan đến Vuejs                      |
 | [#vuejsvn_news](https://www.facebook.com/hashtag/vuejsvn_news)       | Tin tức, cập nhật, thông báo từ BQT              |
